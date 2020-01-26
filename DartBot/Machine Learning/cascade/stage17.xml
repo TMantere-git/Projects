@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<stage17>
+  <maxWeakCount>10</maxWeakCount>
+  <stageThreshold>-1.3349678516387939e+00</stageThreshold>
+  <weakClassifiers>
+    <_>
+      <internalNodes>
+        0 -1 70285 5.6846775114536285e-03</internalNodes>
+      <leafValues>
+        -4.0594059228897095e-01 8.1818181276321411e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 147409 -5.1036062650382519e-03</internalNodes>
+      <leafValues>
+        7.3011034727096558e-01 -2.4228347837924957e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 97754 -8.5620507597923279e-03</internalNodes>
+      <leafValues>
+        -7.7711874246597290e-01 2.3516950011253357e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 93790 -5.8134924620389938e-03</internalNodes>
+      <leafValues>
+        7.7763968706130981e-01 -2.3611840605735779e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 90728 -1.2751092202961445e-02</internalNodes>
+      <leafValues>
+        -7.4010318517684937e-01 2.5982570648193359e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 140076 4.3713999912142754e-03</internalNodes>
+      <leafValues>
+        -2.9912629723548889e-01 7.6135957241058350e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 152817 -7.1362284943461418e-03</internalNodes>
+      <leafValues>
+        5.4042375087738037e-01 -3.2010298967361450e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 146657 -6.6156918182969093e-03</internalNodes>
+      <leafValues>
+        6.4556956291198730e-01 -2.4259917438030243e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 156660 -2.5867386721074581e-03</internalNodes>
+      <leafValues>
+        -9.7509503364562988e-01 2.0730172097682953e-01</leafValues></_>
+    <_>
+      <internalNodes>
+        0 -1 156417 -3.8871627766638994e-03</internalNodes>
+      <leafValues>
+        7.3962718248367310e-01 -2.9109382629394531e-01</leafValues></_></weakClassifiers></stage17>
+</opencv_storage>
