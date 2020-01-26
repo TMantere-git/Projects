@@ -10,6 +10,7 @@ Dartbot was part of a Amazing Robots competition hosted by Finnish TIETOTEKNIIKA
 
 [Link to a News article about the competition](https://www.mikrobitti.fi/neuvot/robotit-kisasivat-messukeskuksessa-10-000-euron-voittopotti-tuli-ylivertaisella-teknisella-toteutuksella/60490a0f-0bc4-4c8e-a108-126306718576) (only in Finnish)
 
+![Dartbot](/Dartbot/Dartbot.jpg)
 
 
 
