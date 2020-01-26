@@ -11,6 +11,7 @@ Dartbot was part of a Amazing Robots competition hosted by Finnish TIETOTEKNIIKA
 [Link to a News article about the competition](https://www.mikrobitti.fi/neuvot/robotit-kisasivat-messukeskuksessa-10-000-euron-voittopotti-tuli-ylivertaisella-teknisella-toteutuksella/60490a0f-0bc4-4c8e-a108-126306718576) (only in Finnish)
 
 ![Dartbot](/DartBot/Dartbot.png)
+
 Picture of the Device
 
 
@@ -19,6 +20,9 @@ Picture of the Device
 
 Weatherstation is simple multidevice weather monitoring system. It uses multiple similar stations that are made of Adafruit Feather Huzzah ESP8266 boards with bme280 sensors to measure temperature, air pressure and air humidity. These measurements are then uploaded on a mySQL database every hour where they can be accessed by a website showing the data in raw form as well as in a graph.
 
+Station-program runs on linux server that is self built, configurated and managed. On the server program does averaging of the measurements and a prediction of the weather using SARIMA model.
+
 
 ![WeatherStation](/WeatherStation/WeatherStation.png)
 Website layout
+
