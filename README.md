@@ -1,6 +1,6 @@
 # Projects
 
-These are a compilation of projects I have been part of.
+Here is a compilation of projects I have been part of.
 
 ### 1. Dartbot
 
