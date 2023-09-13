@@ -1,0 +1,13 @@
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0-windows\SnakeGame.exe
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0-windows\SnakeGame.deps.json
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0-windows\SnakeGame.runtimeconfig.json
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0-windows\SnakeGame.dll
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.AssemblyInfoInputs.cache
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.AssemblyInfo.cs
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.dll
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\refint\SnakeGame.dll
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\SnakeGame.genruntimeconfig.cache
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\obj\Release\net6.0-windows\ref\SnakeGame.dll
