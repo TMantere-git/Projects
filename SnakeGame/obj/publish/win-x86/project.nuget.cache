@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7asVnH1JVi+kIMv1/q92VbT6IrU9kTK33QMZnr7JlVm1IV3kJmjVvBObA1DjFAdq3/ee5RNZ9m8qhueMmBav4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Teemu\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Teemu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.15\\microsoft.netcore.app.runtime.win-x86.6.0.15.nupkg.sha512",
+    "C:\\Users\\Teemu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.15.nupkg.sha512",
+    "C:\\Users\\Teemu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.15\\microsoft.aspnetcore.app.runtime.win-x86.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
