@@ -2,7 +2,7 @@
 
 Here is a compilation of projects I have been part of.
 
-### 1. Dartbot
+### ![1. Dartbot](DartBot)
 
 Dartbot is a device that uses OpenGL to track a target and shoot a dart on it at a right distance. The target is taught to it using Haar Cascade. For moving it uses 4 DC motors, for target acquiring 2 servo motors, and for shooting the dart 2 dc motors and a solenoid. At a heart of the device lies a Raspberry Pi 3b and for camera it uses a regular Raspberry Pi camera.
 
@@ -16,7 +16,7 @@ Picture of the Device
 
 
 
-### 2 Weatherstation
+### ![2. Weatherstation](/Weatherstation)
 
 Weatherstation is simple multidevice weather monitoring system. It uses multiple similar stations that are made of Adafruit Feather Huzzah ESP8266 boards with bme280 sensors to measure temperature, air pressure and air humidity. These measurements are then uploaded on a mySQL database every hour where they can be accessed by a website showing the data in raw form as well as in a graph.
 
@@ -26,8 +26,8 @@ Station-program runs on linux server that is self built, configurated and manage
 ![WeatherStation](/WeatherStation/WeatherStation.png)
 Website layout
 
-### Snake Game
+### ![3. Snake Game](/SnakeGame)
 
-Basic snake type game using c#. To run the program run SnakeGame.exe from SnakeGame/bin/Debug/net6.0/
+Basic snake type game using c#. To run the program run SnakeGame.exe from SnakeGame/bin/Release/publish/
 
 ### 4 More to come...
