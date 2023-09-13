@@ -26,5 +26,8 @@ Station-program runs on linux server that is self built, configurated and manage
 ![WeatherStation](/WeatherStation/WeatherStation.png)
 Website layout
 
+### Snake Game
 
-### 3 More to come...
+Basic snake type game using c#. To run the program run SnakeGame.exe from SnakeGame/bin/Debug/net6.0/
+
+### 4 More to come...
