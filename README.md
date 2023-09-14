@@ -30,4 +30,14 @@ Website layout
 
 Basic snake type game using c#. To run the program run SnakeGame.exe from SnakeGame/bin/Release/publish/
 
+Aim of the project was to learn some basic game-programming on C#
+
+### ![4. TankkaajaPro](/TankkaajaPro)
+
+TankkaajaPro is a self made android application to track car fueling statistics like kilometers driven, gas price, etc.
+Application is done using dart and kotlin.
+Application uses python api on a self made server to add and read data from mySQL database.
+
+The focus of the project was to learn how to do android programming.
+
 ### 4 More to come...
