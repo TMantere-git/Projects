@@ -9,10 +9,10 @@ home = expanduser('~')
 
 LINUX = True
 if LINUX == True:
-    with open("/home/server/Documents/login_info_palvelin.txt", "r") as f:
+    with open("", "r") as f:
         login_info = [line.strip() for line in f]
 else:
-    with open("C:\\Users\\Teemu\\Documents\\Koulujuttuja\\Projekti avaintiedosto\\login_info_palvelin.txt", "r") as f:   
+    with open("", "r") as f:   
         login_info = [line.strip() for line in f]
     
 
