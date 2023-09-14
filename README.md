@@ -38,6 +38,6 @@ TankkaajaPro is a self made android application to track car fueling statistics 
 Application is done using dart and kotlin.
 Application uses python api on a self made server to add and read data from mySQL database.
 
-The focus of the project was to learn how to do android programming.
+The aim of the project was to learn how to do android programming.
 
 ### 4 More to come...
