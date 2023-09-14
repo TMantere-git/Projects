@@ -15,7 +15,6 @@ Dartbot was part of a Amazing Robots competition hosted by Finnish TIETOTEKNIIKA
 Picture of the Device
 
 
-
 ### ![2. Weatherstation](/Weatherstation)
 
 Weatherstation is simple multidevice weather monitoring system. It uses multiple similar stations that are made of Adafruit Feather Huzzah ESP8266 boards with bme280 sensors to measure temperature, air pressure and air humidity. These measurements are then uploaded on a mySQL database every hour where they can be accessed by a website showing the data in raw form as well as in a graph.
@@ -30,4 +29,14 @@ Website layout
 
 Basic snake type game using c#. To run the program run SnakeGame.exe from SnakeGame/bin/Release/publish/
 
-### 4 More to come...
+Aim of the project was to learn some basic game-programming on C#
+
+### ![4. TankkaajaPro](/TankkaajaPro)
+
+TankkaajaPro is a self made android application to track car fueling statistics like kilometers driven, gas price, etc.
+Application is done using dart and kotlin.
+Application uses python api on a self made server to add and read data from mySQL database.
+
+The aim of the project was to learn how to do android programming.
+
+### 5 More to come...
