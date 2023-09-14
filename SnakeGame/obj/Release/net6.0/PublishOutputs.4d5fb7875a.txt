@@ -1,0 +1,5 @@
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0\publish\SnakeGame.exe
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0\publish\SnakeGame.dll
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0\publish\SnakeGame.deps.json
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0\publish\SnakeGame.runtimeconfig.json
+C:\Users\Teemu\source\repos\SnakeGame\SnakeGame\bin\Release\net6.0\publish\SnakeGame.pdb
